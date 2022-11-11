@@ -71,6 +71,7 @@ A minha recomendação é usar uma base de dados de teste que você já possua.
 
 ## Configurando a base de dados
 
+Crie um database com nome proto, em seguida crie uma tabela com nome cidade
 ```sql
 create database proto
 ```
